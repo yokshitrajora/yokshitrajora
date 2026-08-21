@@ -1,4 +1,10 @@
 # 👋 Hey, I'm Yokshit Rajora
+<a href="https://github.com/Andrew6rant/Andrew6rant">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\yoksh\Pictures\Random\ascii-art.png"">
+    <img alt="mine ascii art" src=""C:\Users\yoksh\Pictures\Random\ascii-art.png"">
+  </picture>
+</a>T
 
 ### 🔐 Cybersecurity Student | Aspiring Ethical Hacker
 
