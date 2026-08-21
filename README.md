@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Yokshit Rajora
 <picture>
-  ![Dark Profile SVG](https://github.com/yokshitrajora/SVGs/blob/main/dark_mode.svg)
-  ![Alt Text](https://github.com/yokshitrajora/SVGs/blob/main/light_mode.svg)
+  <source media="(prefers-color-scheme: dark)" srcset="[dark_mode.svg](https://github.com/yokshitrajora/SVGs/blob/main/dark_mode.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[light_mode.svg](https://github.com/yokshitrajora/SVGs/blob/main/light_mode.svg)" />
+  <img alt="yokshitrajora's GitHub profile" src="[dark_mode.svg](https://github.com/yokshitrajora/SVGs/blob/main/dark_mode.svg)" />
 </picture>
-
 ### 🔐 Cybersecurity Student | Aspiring Ethical Hacker
 
 <p align="left">
