@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=334155&text=Yokshit%20Rajora&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=11,18,24&text=Yokshit%20Rajora&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=A%20Coffee%20a%20day%20keeps%20the%20Malware%20away" alt="Typing introduction" />
