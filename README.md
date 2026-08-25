@@ -99,7 +99,7 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:yokshitrajora1@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="my site">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
